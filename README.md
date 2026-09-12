@@ -275,7 +275,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 - [x] [🕵️ TryHackMe | Passive Reconnaissance](https://tryhackme.com/room/passiverecon)
 
-- [ ] [🕵️ TryHackMe | Active Reconnaissance](https://tryhackme.com/room/activerecon)
+- [x] [🕵️ TryHackMe | Active Reconnaissance](https://tryhackme.com/room/activerecon)
 
 - [ ] [🕵️ TryHackMe | Content Discovery](https://tryhackme.com/room/contentdiscovery)
 
