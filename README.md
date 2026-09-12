@@ -291,7 +291,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 - [ ] [🕵️ TryHackMe | Red Team Recon](https://tryhackme.com/room/redteamrecon)
 
-- [ ] [🕵️ TryHackMe | Searchlight - IMINT](https://tryhackme.com/room/searchlightosint)
+- [x] [🕵️ TryHackMe | Searchlight - IMINT](https://tryhackme.com/room/searchlightosint)
 
 ## Scripting
 
