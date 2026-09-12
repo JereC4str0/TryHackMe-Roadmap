@@ -287,7 +287,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 - [ ] [🕵️ TryHackMe | WebOSINT](https://tryhackme.com/room/webosint)
 
-- [ ] [🕵️ TryHackMe | Sakura Room](https://tryhackme.com/room/sakura)
+- [x] [🕵️ TryHackMe | Sakura Room](https://tryhackme.com/room/sakura)
 
 - [ ] [🕵️ TryHackMe | Red Team Recon](https://tryhackme.com/room/redteamrecon)
 
