@@ -281,7 +281,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 - [x] [🕵️ TryHackMe | OhSINT](https://tryhackme.com/room/ohsint)
 
-- [ ] [🕵️ TryHackMe | Shodan.io](https://tryhackme.com/room/shodan)
+- [x] [🕵️ TryHackMe | Shodan.io](https://tryhackme.com/room/shodan)
 
 - [x] [🕵️ TryHackMe | Google Dorking](https://tryhackme.com/room/googledorking)
 
